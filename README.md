@@ -61,7 +61,22 @@ Options:
 
 # Results
 After run, the enrichment results for GO (CC, MF, and BP) and KEGG will be generated and presented in CSV file format. The image files will include dot plots and bubble plots for GO, and bar charts and bubble plots for KEGG.
-![image](https://github.com/RuiSiHu/RdRp-PHAP/blob/main/IMG.png)
+
+Such as:
+bubbleplot for GO enrichment (CC, MF, and BP)
+![image](https://github.com/RuiSiHu/py_clusterProfiler/tree/main/test/test_top_BP_MF_CC_bubbleplot.png)
+
+barplot for GO enrichment (CC, MF, and BP):
+![image](https://github.com/RuiSiHu/py_clusterProfiler/tree/main/test/test_top_BP_MF_CC_barplot.png)
+
+dotplot for KEGG enrichment:
+![image](https://github.com/RuiSiHu/py_clusterProfiler/tree/main/test/test_KEGG_dotplot.png)
+
+barplot for KEGG enrichment:
+![image](https://github.com/RuiSiHu/py_clusterProfiler/tree/main/test/test_KEGG_barplot.png)
+
+
+# Reference
 
 
 
