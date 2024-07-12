@@ -12,7 +12,7 @@ def run_r_script(input_file, from_type, org_db, pvalue_cutoff, qvalue_cutoff, p_
         os.makedirs(output_dir)
 
     r_script_path = os.path.join("scripts", "clusterProfiler_analysis.R")
-    rscript_path = r"C:\Program Files\R\R-4.4.0\bin\Rscript.exe"
+    rscript_path = r"Rscript" ###The location where Rscript or R is stored. If it is already added to the environment variables, there is no need to add the path.
     command = [
         rscript_path, r_script_path,
         input_file, from_type, org_db, str(pvalue_cutoff), str(qvalue_cutoff), p_adjust_method
