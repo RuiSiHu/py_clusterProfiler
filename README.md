@@ -67,25 +67,25 @@ Such as:
 bubbleplot for GO enrichment (CC, MF, and BP)
 
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/RuiSiHu/py_clusterProfiler/main/test/test_top_BP_MF_CC_bubbleplot.png" alt="image" style="width: 33%; height: auto;">
+  <img src="https://raw.githubusercontent.com/RuiSiHu/py_clusterProfiler/main/test/test_top_BP_MF_CC_bubbleplot.png" alt="image" style="width: 50%; height: auto;">
 </div>
 
 barplot for GO enrichment (CC, MF, and BP)
 
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/RuiSiHu/py_clusterProfiler/main/test/test_top_BP_MF_CC_bubbleplot.png" alt="image" style="width: 33%; height: auto;">
+  <img src="https://raw.githubusercontent.com/RuiSiHu/py_clusterProfiler/main/test/test_top_BP_MF_CC_barplot.png" alt="image" style="width: 50%; height: auto;">
 </div>
 
 dotplot for KEGG enrichment
 
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/RuiSiHu/py_clusterProfiler/main/test/test_KEGG_dotplot.png" alt="image" style="width: 33%; height: auto;">
+  <img src="https://raw.githubusercontent.com/RuiSiHu/py_clusterProfiler/main/test/test_KEGG_dotplot.png" alt="image" style="width: 50%; height: auto;">
 </div>
 
 barplot for KEGG enrichment
 
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/RuiSiHu/py_clusterProfiler/main/test/test_KEGG_barplot.png" alt="image" style="width: 33%; height: auto;">
+  <img src="https://raw.githubusercontent.com/RuiSiHu/py_clusterProfiler/main/test/test_KEGG_barplot.png" alt="image" style="width: 50%; height: auto;">
 </div>
 
 
