@@ -9,7 +9,7 @@ Before running the analysis, various R packages that clusterProfiler depends on 
     BiocManager::install("clusterProfiler")
     BiocManager::install("topGO")
     BiocManager::install("DOSE")
-    BiocManager::install("org.Mm.eg.db") #depend the species analyzed
+    BiocManager::install("org.Mm.eg.db") #depend on the species analyzed
 
 Or run:
 
