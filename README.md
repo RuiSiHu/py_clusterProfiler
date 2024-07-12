@@ -17,6 +17,8 @@ All dependencies have been installed, the following command can be used to run:
     
     python3 py_clusterProfiler.py -i test.csv -fromType E -OrgDb mmu  -pvalueCutoff 0.01 -qvalueCutoff 0.01 -pAdjustMethod BH
 
+    python3 py_clusterProfiler.py -h 
+    
 Where:
 
 py_clusterProfiler.py [-h] -i INPUT -fromType {E,S} -OrgDb
