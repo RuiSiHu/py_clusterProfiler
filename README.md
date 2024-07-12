@@ -66,7 +66,7 @@ Such as:
 bubbleplot for GO enrichment (CC, MF, and BP)
 
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/RuiSiHu/py_clusterProfiler/main/test/test_top_BP_MF_CC_bubbleplot.png" alt="image" width="400" height="640">
+  <img src="https://raw.githubusercontent.com/RuiSiHu/py_clusterProfiler/main/test/test_top_BP_MF_CC_bubbleplot.png" alt="image" width="400" height="540">
 </div>
 
 barplot for GO enrichment (CC, MF, and BP)
