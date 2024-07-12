@@ -65,7 +65,7 @@ After run, the enrichment results for GO (CC, MF, and BP) and KEGG will be gener
 Such as:
 bubbleplot for GO enrichment (CC, MF, and BP)
 
-![image](https://github.com/RuiSiHu/py_clusterProfiler/tree/main/test/test_top_BP_MF_CC_bubbleplot.png)
+![image](https://raw.githubusercontent.com/RuiSiHu/py_clusterProfiler/main/test/test_top_BP_MF_CC_bubbleplot.png)
 
 barplot for GO enrichment (CC, MF, and BP)
 
