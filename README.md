@@ -10,8 +10,9 @@ Before running the analysis, various R packages that clusterProfiler depends on 
     BiocManager::install("DOSE")
     BiocManager::install("org.Mm.eg.db") #depend the species analyzed
 
-Or:
-Rscript install_packages.R
+Or run:
+
+    Rscript install_packages.R
 
 All dependencies have been installed, the following command can be used to run:
     
