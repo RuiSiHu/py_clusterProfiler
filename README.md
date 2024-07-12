@@ -69,15 +69,16 @@ bubbleplot for GO enrichment (CC, MF, and BP)
 
 barplot for GO enrichment (CC, MF, and BP)
 
-![image](https://raw.githubusercontent.com/RuiSiHu/py_clusterProfiler/tree/main/test/test_top_BP_MF_CC_barplot.png)
+![image](https://raw.githubusercontent.com/RuiSiHu/py_clusterProfiler/main/test/test_top_BP_MF_CC_barplot.png)
 
 dotplot for KEGG enrichment
 
-![image](https://raw.githubusercontent.com/RuiSiHu/py_clusterProfiler/tree/main/test/test_KEGG_dotplot.png)
+![image](https://raw.githubusercontent.com/RuiSiHu/py_clusterProfiler/main/test/test_KEGG_dotplot.png)
 
 barplot for KEGG enrichment
 
-![image](https://raw.githubusercontent.com/RuiSiHu/py_clusterProfiler/tree/main/test/test_KEGG_barplot.png)
+![image](https://raw.githubusercontent.com/RuiSiHu/py_clusterProfiler/main/test/test_KEGG_barplot.png)
+
 
 
 # Reference
