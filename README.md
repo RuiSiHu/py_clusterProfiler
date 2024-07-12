@@ -81,7 +81,8 @@ barplot for KEGG enrichment
 
 
 # Reference
-
+Yu G, Wang LG, Han Y, He QY. clusterProfiler: an R package for comparing biological themes among gene clusters. OMICS. 2012, 16(5): 284-287. doi: 10.1089/omi.2011.0118.
+Wu T, Hu E, Xu S, Chen M, Guo P, Dai Z, Feng T, Zhou L, Tang W, Zhan L, Fu X, Liu S, Bo X, Yu G. clusterProfiler 4.0: A universal enrichment tool for interpreting omics data. Innovation (Camb). 2021, 2(3): 100141. doi: 10.1016/j.xinn.2021.100141.
 
 
 
