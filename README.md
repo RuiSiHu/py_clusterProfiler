@@ -59,6 +59,11 @@ Options:
                         equivalent to BH), BY (Benjamini-Yekutieli), holm (Holm-Bonferroni), hochberg (Hochberg),
                         hommel (Hommel), bonferroni (Bonferroni)
 
+# Results
+After the run is completed, the full enrichment results for GO (CC, MF, and BP) and KEGG will be generated and presented in CSV file format. The image files will include dot plots and bubble plots for GO, and bar charts and bubble plots for KEGG.
+
+
+
 
 
 
