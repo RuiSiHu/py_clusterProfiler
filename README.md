@@ -61,6 +61,7 @@ Options:
 
 # Results
 After run, the enrichment results for GO (CC, MF, and BP) and KEGG will be generated and presented in CSV file format. The image files will include dot plots and bubble plots for GO, and bar charts and bubble plots for KEGG.
+![image](https://github.com/RuiSiHu/RdRp-PHAP/blob/main/IMG.png)
 
 
 
